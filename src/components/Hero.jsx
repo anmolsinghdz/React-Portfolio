@@ -49,7 +49,7 @@ const Hero = () => {
           <FaInstagram size={24} className="text-white hover:text-pink-500" />
         </a>
         <a
-          href="https://twitter.com/anmolsinghdz"
+          href="https://twitter.com/your-profile"
           target="_blank"
           rel="noopener noreferrer"
         >
