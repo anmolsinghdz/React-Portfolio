@@ -42,21 +42,21 @@ const Hero = () => {
           <FaGithub size={24} className="text-white hover:text-gray-500" />
         </a>
         <a
-          href="https://www.instagram.com/4everanmol"
+          href="https://www.instagram.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaInstagram size={24} className="text-white hover:text-pink-500" />
         </a>
         <a
-          href="https://twitter.com/your-profile"
+          href="https://twitter.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaTwitter size={24} className="text-white hover:text-blue-400" />
         </a>
         <a
-          href="https://stackoverflow.com/users/your-profile"
+          href="https://stackoverflow.com"
           target="_blank"
           rel="noopener noreferrer"
         >
